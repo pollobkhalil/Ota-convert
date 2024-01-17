@@ -1,0 +1,33 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+/* Custom color  */
+
+:root {
+    --primary-color: #399F6E;
+    --secondary-color: #2A2A2E;
+   
+  }
+  
+
+  body {
+    font-family:"Epilogue", sans-serif;;
+  }
+  
+  .navbar-nav li a{
+    color: var(--secondary-color) !important;
+    font-weight: 400;
+    font-size: 15px;
+   
+  }
+  
+
+
+
+
+
+
+
+

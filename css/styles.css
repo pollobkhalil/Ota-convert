@@ -101,16 +101,13 @@ footer{
   color: #919B99 !important;
 }
 
-.phn-no{
-  font: bold;
-  padding: 0;
-  font-weight: 600;
+.add-ftr:hover{
   color: #399F6E;
-  font-size: 2rem;
-  line-height: 0%;
+  text-decoration: none;
 }
-
-
+.address{
+  text-decoration: none;
+}
 
 /* End Footer */
 

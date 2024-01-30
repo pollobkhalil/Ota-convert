@@ -850,6 +850,22 @@ h2::after {
     border: 5px double;    
 }
 
+.profile-pic{
+  width: 4rem;
+
+ 
+}
+.rounded-full{
+  border-radius: 10rem;
+}
+
+.profile-content {
+  text-align: left;
+}
+.profile-content h2{
+  font-size: 20px;
+}
+
 /* End testimonials section */
 
 
@@ -861,3 +877,17 @@ h2::after {
 
 
 /* End Blog section */
+
+
+
+
+/* Start our Newsletter section */
+
+
+
+.news-bg{
+ background-repeat: no-repeat;
+}
+
+
+/* End our Newsletter section */
